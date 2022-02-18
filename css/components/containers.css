@@ -1,0 +1,29 @@
+.top-container {
+  display: flex;
+  align-items: center;
+  margin: 20px;
+  margin-bottom: 0px;
+}
+
+.product-information {
+  display: flex;
+  margin: auto;
+  height: 400px;
+  flex-direction: column;
+}
+
+.product-information p{
+  font-weight: bold;
+}
+
+.product-information h1{
+  margin: 0px;
+}
+
+.lower-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 200px;
+  margin-bottom: 40px;
+}
